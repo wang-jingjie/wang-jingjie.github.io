@@ -1,7 +1,7 @@
 ---
 title: " A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination"
 collection: publications
-category: published work
+category: manuscripts
 permalink: /publication/A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination.pdf
 date: 2024-08-07
 venue: 'Separation and Purification Technology'
