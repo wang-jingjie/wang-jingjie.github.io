@@ -1,6 +1,6 @@
 ---
 title: "Acdemic Conference"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/images/31011731175398_.pic.jpg'>"
+excerpt: "<img src='/images/images/31011731175398_.jpg'>"
 collection: portfolio
 ---
 
