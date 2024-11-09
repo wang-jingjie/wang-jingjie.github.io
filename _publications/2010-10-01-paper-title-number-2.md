@@ -3,6 +3,6 @@ title: " Pedestrian and Non-Motor Vehicle Track Extraction and Traffic Character
 collection: publications
 category: manuscripts
 permalink: /publication/ Pedestrian and Non-Motor Vehicle Track Extraction and Traffic Characteristics Analysis at Intersection
-date: 2024-10
+date: 2024-10-01
 venue: 'Accident Analysis & Prevention'
 ---
