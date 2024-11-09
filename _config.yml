@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jingjie Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wang-jingjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Glistening & Sparkling (A Hard-working IE Student)"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
-  URI              : https://wang-jingjie.github.io
+  URI              : # https://wang-jingjie.github.io
   email            : "wangjingjie@stu.scu.edu.cn" 
 
   # Academic websites
