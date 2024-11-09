@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## About Me
+
+Hi! I'm an undergraduate student majoring in Industrial Engineering at Sichuan University-Pittsburgh Institute. I am an extroverted and enthusiastic individual who enjoys making new friends and connecting with others. 
+My academic journey has been filled with enriching experiences and accomplishments, including high academic performance and active involvement in various projects and competitions. I have a strong interest in **Cyber-Physical-Human Systems**, **Transportation and Emergency Management**, and **Human Factors**. 
+In addition to my studies, I have a passion for **volleyball**, where I serve as the captain of the SCUPI volleyball team, and **singing**, especially K-pop music. These hobbies keep me active and energized outside of my academic life.
+Currently, I am preparing for my PhD application, eagerly looking forward to receiving an amazing offer and starting the next chapter of my academic and professional journey!
+Feel free to connect with me if you'd like to collaborate or just chat!
+You can find my CV here: [Jingjie's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+[Email](mailto:wangjingjie@stu.scu.edu.cn) / [Github](https://github.com/wang-jingjie) / [Wechat](JJ_Sparkling/images/wechat.jpg)
 
 A data-driven personal website
 ======
