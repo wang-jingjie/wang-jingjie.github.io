@@ -51,9 +51,9 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
     
     # Add the "Submitted" or "Published" line based on type
-    if item['type'].lower() == "manuscripts":
+    if item['type'].strip().lower() == "manuscripts":
         md += f"\nSubmitted to {item.venue}, {year}."
-    else:
+    elif item['type'].strip().lower() == "published work" or item['type'].strip().lower() == "conference paper":
         md += f"\nPublished in {item.venue}, {year}."
     
     md += "\nRecommended citation: " + item.citation
