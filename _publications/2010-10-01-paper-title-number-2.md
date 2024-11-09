@@ -9,4 +9,3 @@ venue: 'Accident Analysis & Prevention'
 
 Submitted to *Accident Analysis & Prevention*, 2024.
 
-Recommended citation: [Add the citation format once the paper is accepted and published].
