@@ -24,19 +24,19 @@ Awards & Honors
 
 Research experience
 ======
-* Sep 2023-Sep 2024: China’s Transportation-Related Embodied Carbon Transfer Patterns and Drivers
+Sep 2023-Sep 2024: China’s Transportation-Related Embodied Carbon Transfer Patterns and Drivers
 * Research Assistant, Advised by Dr. Zeshui Xu in Business College, Sichuan University
 
 
-* Sep 2023-Sep 2024: Analysis and Algorithm Development for Mixed Traffic Flow Based on Road Video Data
+Sep 2023-Sep 2024: Analysis and Algorithm Development for Mixed Traffic Flow Based on Road Video Data
 * Research Assistant, Advised by Dr. Wei Xie in Institute of Disaster Management and Reconstruction
 
 
-* Feb 2023-Sep 2023: Simulation and Optimization of Bandwidth Allocation in Cloud Computing Environment
+Feb 2023-Sep 2023: Simulation and Optimization of Bandwidth Allocation in Cloud Computing Environment
 * Research Assistant, Advised by Dr. Haitao Liu in Business College, Sichuan University
 
 
-* Sep 2022-Oct 2023: Enhancing Laparoscopic Surgery Training with Automated Error Detection System
+Sep 2022-Oct 2023: Enhancing Laparoscopic Surgery Training with Automated Error Detection System
 * Research Assistant, Advised by Dr. Rong Yin in Pittsburgh Institute, Sichuan University
 
 
