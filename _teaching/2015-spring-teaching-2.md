@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant in Innovation Engineering Science Feb 2024-Jun 20"
+title: "Teaching Assistant in Innovation Engineering Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
