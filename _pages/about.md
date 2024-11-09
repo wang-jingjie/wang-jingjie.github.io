@@ -21,7 +21,7 @@ Feel free to connect with me if you'd like to collaborate or just chat!
 
 And you can find my CV here: [Jingjie's Curriculum Vitae](../assets/CV-Jingjie_Wang.pdf).
 
-[Email](mailto:wangjingjie@stu.scu.edu.cn) / [Github](https://github.com/wang-jingjie) / [Wechat](JJ_Sparkling/images/wechat.jpg)
+[Email](mailto:wangjingjie@stu.scu.edu.cn) / [Github](https://github.com/wang-jingjie) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
