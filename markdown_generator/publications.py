@@ -50,6 +50,12 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
     
+    # Add the "Submitted" or "Published" line based on type
+    if item['type'].lower() == "manuscripts":
+        md += f"\nSubmitted to {item.venue}, {year}."
+    else:
+        md += f"\nPublished in {item.venue}, {year}."
+    
     md += "\nRecommended citation: " + item.citation
     
     # Write to the Markdown file
