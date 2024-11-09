@@ -1,7 +1,7 @@
 ---
 title: "Acdemic Conference"
-excerpt: "<img src='/images/31011731175398_.pic.jpg'>"
+excerpt: "<img src='/images/WechatIMG3101.png'>"
 collection: portfolio
 ---
 
-I participated the academic conference on behalf of my institute.
+I participated in the academic conference on behalf of my institute.
