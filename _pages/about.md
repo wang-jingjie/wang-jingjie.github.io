@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 Hi, I'm Jingjie (JJ)!
 
-I’m currently a **first-year PhD student in the Edwardson School of Industrial Engineering at Purdue University**, advised by [Dr. Brandon Pitts](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=158978), serving as a research assistant in **Next-generation Human-systems and Cognitive Engineering Lab** [(N*H*anCE Lab)](https://engineering.purdue.edu/NHanCE).  
+I’m currently a **first-year PhD student in the Edwardson School of Industrial Engineering at Purdue University**, advised by [Dr. Brandon Pitts](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=158978), serving as a research assistant in **Next-generation Human-systems and Cognitive Engineering Lab** [(*N*HanCE Lab)](https://engineering.purdue.edu/NHanCE).  
 My research interests lie in **Cyber-Physical-Human Systems, Transportation and Emergency Management, and Human Factors**, with a focus on designing safer and more efficient human-technology interactions.  
 
 Before joining Purdue, I completed my **B.Eng. in Industrial Engineering** at Sichuan University–Pittsburgh Institute (SCUPI), where I graduated with distinction and actively participated in interdisciplinary projects, competitions, and leadership roles.  
