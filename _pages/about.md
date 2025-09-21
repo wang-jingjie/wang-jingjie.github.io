@@ -10,16 +10,30 @@ redirect_from:
 
 ## About Me
 
-Hi! I’m a first-year PhD student in Industrial Engineering at Purdue University, advised by Dr. Brandon Pitts. I am an extroverted and enthusiastic individual who enjoys making new friends and building meaningful connections.
+# 👋 Hi, my name is Jingjie Wang! You can call me JJ as well.
 
-My academic journey has been filled with enriching experiences and accomplishments, from excelling in my undergraduate studies at Sichuan University–Pittsburgh Institute to engaging in diverse research projects spanning Cyber-Physical-Human Systems, Transportation and Emergency Management, and Human Factors. These experiences shaped my research interests and continue to motivate my pursuit of impactful and interdisciplinary work.
+I’m currently a **first-year PhD student in the Edwardson School of Industrial Engineering at Purdue University**, advised by [Dr. Brandon Pitts](https://engineering.purdue.edu/IE/People/ptProfile?resource_id=265402).  
+My research interests lie in **Cyber-Physical-Human Systems, Transportation and Emergency Management, and Human Factors**, with a focus on designing safer and more efficient human-technology interactions.  
 
-Beyond my academic life, I am passionate about volleyball, having served as captain of the SCUPI volleyball team, and I also enjoy singing, especially K-pop music. These activities keep me active, creative, and energized.
+Before joining Purdue, I completed my **B.Eng. in Industrial Engineering** at Sichuan University–Pittsburgh Institute (SCUPI), where I graduated with distinction and actively participated in interdisciplinary projects, competitions, and leadership roles.  
 
-As I begin my PhD journey at Purdue, I am eager to expand my research horizons, collaborate with scholars across disciplines, and contribute to advancing the field of Industrial Engineering.
+---
 
-Feel free to connect with me if you’d like to collaborate or just chat!
+## 🌟 Beyond Academics
+- 🏐 Passionate about **volleyball** – former captain of the SCUPI team  
+- 🎤 Love **singing and K-pop music**  
+- 🎸 Play **folk guitar and drums** (China’s grade-9 drum kit exam)  
 
-And you can find my CV here: [Jingjie's Curriculum Vitae](../assets/CV-Jingjie_Wang.pdf).
+These hobbies keep me energized, creative, and balanced alongside my academic journey.  
 
-[Email](mailto:wangjingjie@stu.scu.edu.cn) / [Github](https://github.com/wang-jingjie) / [Wechat](../images/wechat.jpg)
+---
+
+## 📬 Let’s Connect!
+- **Email:** wang0601@purdue.edu  
+- **Google Scholar:** [JJ's Google Scholar](https://scholar.google.com/citations?user=i-NEa-wAAAAJ&hl=zh-CN))
+- **ORCiD:** [JJ's ORCiD](https://orcid.org/0009-0002-5647-8452))  
+- **WeChat:** [JJ_Sparkling]  
+
+You can also check out my full CV here: [📄 Jingjie’s Curriculum Vitae](../assets/CV-Jingjie_Wang.pdf)  
+
+
