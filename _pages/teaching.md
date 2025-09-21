@@ -1,5 +1,4 @@
 ---
-title: "Teaching Assistant Experience"
 permalink: /teaching/
 author_profile: true
 ---
