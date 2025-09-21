@@ -1,10 +1,16 @@
 ---
-title: "Publications Overview"
-collection: publications
-permalink: /publications
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 
-## Published Work
+## Publications
+
+{% for pub in site.publications reversed %}
+- [{{ pub.title }}]({{ pub.url }})  
+  *{{ pub.venue }}*, {{ pub.date | date: "%Y" }}
+{% endfor %}
+
 
 ### 1. Impact of assistance behavior on evacuation efficiency in high-rise hospital inpatient buildings: An agent-based simulation study
 - **Date**: 2025-07-01
