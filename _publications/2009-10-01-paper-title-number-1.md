@@ -3,8 +3,8 @@ title: "Enhancing Laparoscopic Surgery Training: A Comparative Study of Traditio
 collection: publications
 
 permalink: /publication/laparoscopic-surgery-training
-date: 2025-05-10
-venue: 'BMC Medical Education'
+Date: 2025-05-10
+Journal: 'BMC Medical Education'
 ---
 
 Published in *BMC Medical Education*, 2025.  
