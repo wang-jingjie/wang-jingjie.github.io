@@ -30,7 +30,7 @@ These hobbies keep me energized, creative, and balanced alongside my academic jo
 
 ## 📬 Let’s Connect!
 - **Email:** wang0601@purdue.edu  
-- **Google Scholar:** [JJ's Google Scholar](https://scholar.google.com/citations?user=i-NEa-wAAAAJ&hl=zh-CN))
+- **Google Scholar:** [JJ's Google Scholar](https://scholar.google.com/citations?user=i-NEa-wAAAAJ&hl=zh-CN)
 - **ORCiD:** [JJ's ORCiD](https://orcid.org/0009-0002-5647-8452))  
 - **WeChat:** [JJ_Sparkling]  
 
