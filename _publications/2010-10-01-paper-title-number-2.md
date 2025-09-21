@@ -1,7 +1,7 @@
 ---
 title: "Publications Overview"
 collection: publications
-permalink: /publication/publications-overview
+permalink: /publication
 ---
 
 ## Published Work
