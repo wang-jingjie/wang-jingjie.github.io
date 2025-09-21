@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/inorganic-scaling-membranes
 date: 2024-08-07
 venue: 'Separation and Purification Technology'
+category: journal
 ---
 
 Published in *Separation and Purification Technology*, 2024.  
