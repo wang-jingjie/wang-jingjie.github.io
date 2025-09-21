@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/evacuation-efficiency-hospital
 date: 2025-07-01
 venue: 'Journal of Building Engineering'
+category: journal
 ---
 
 Published in *Journal of Building Engineering*, 2025.  
