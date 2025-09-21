@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/laparoscopic-surgery-training
 date: 2025-05-10
 venue: 'BMC Medical Education'
+category: journal
 ---
 
 Published in *BMC Medical Education*, 2025.  
