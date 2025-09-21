@@ -6,11 +6,38 @@ author_profile: true
 
 <h2>Publications</h2>
 
+<h3>Journal Articles</h3>
 <ul>
   {% for pub in site.publications reversed %}
+    {% if pub.category == "journal" %}
     <li>
       <a href="{{ pub.url }}">{{ pub.title }}</a><br/>
       <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
     </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h3>Manuscripts</h3>
+<ul>
+  {% for pub in site.publications reversed %}
+    {% if pub.category == "manuscripts" %}
+    <li>
+      <a href="{{ pub.url }}">{{ pub.title }}</a><br/>
+      <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h3>Conference Papers</h3>
+<ul>
+  {% for pub in site.publications reversed %}
+    {% if pub.category == "conference" %}
+    <li>
+      <a href="{{ pub.url }}">{{ pub.title }}</a><br/>
+      <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
+    </li>
+    {% endif %}
   {% endfor %}
 </ul>
