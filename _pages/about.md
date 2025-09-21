@@ -10,14 +10,15 @@ redirect_from:
 
 ## About Me
 
-Hi! I'm an undergraduate student majoring in Industrial Engineering at Sichuan University-Pittsburgh Institute. I am an extroverted and enthusiastic individual who enjoys making new friends and connecting with others. 
+Hi! I’m a first-year PhD student in Industrial Engineering at Purdue University, advised by Dr. Brandon Pitts. I am an extroverted and enthusiastic individual who enjoys making new friends and building meaningful connections.
 
-My academic journey has been filled with enriching experiences and accomplishments, including high academic performance and active involvement in various projects and competitions. I have a strong interest in **Cyber-Physical-Human Systems**, **Transportation and Emergency Management**, and **Human Factors**. 
+My academic journey has been filled with enriching experiences and accomplishments, from excelling in my undergraduate studies at Sichuan University–Pittsburgh Institute to engaging in diverse research projects spanning Cyber-Physical-Human Systems, Transportation and Emergency Management, and Human Factors. These experiences shaped my research interests and continue to motivate my pursuit of impactful and interdisciplinary work.
 
-In addition to my studies, I have a passion for **volleyball**, where I serve as the captain of the SCUPI volleyball team, and **singing**, especially K-pop music. These hobbies keep me active and energized outside of my academic life.
-Currently, I am preparing for my PhD application, eagerly looking forward to receiving an amazing offer and starting the next chapter of my academic and professional journey!
+Beyond my academic life, I am passionate about volleyball, having served as captain of the SCUPI volleyball team, and I also enjoy singing, especially K-pop music. These activities keep me active, creative, and energized.
 
-Feel free to connect with me if you'd like to collaborate or just chat!
+As I begin my PhD journey at Purdue, I am eager to expand my research horizons, collaborate with scholars across disciplines, and contribute to advancing the field of Industrial Engineering.
+
+Feel free to connect with me if you’d like to collaborate or just chat!
 
 And you can find my CV here: [Jingjie's Curriculum Vitae](../assets/CV-Jingjie_Wang.pdf).
 
