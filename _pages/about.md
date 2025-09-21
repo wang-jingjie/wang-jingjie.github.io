@@ -34,6 +34,6 @@ These hobbies keep me energized, creative, and balanced alongside my academic jo
 - **ORCiD:** [JJ's ORCiD](https://orcid.org/0009-0002-5647-8452)
 - **WeChat:** JJ_Sparkling  
 
-You can also check out my full CV here: [📄 Jingjie’s Curriculum Vitae](../assets/CV-Jingjie%20Wang.pdf)  
+You can also check out my full CV here: [📄 Jingjie’s Curriculum Vitae](("../assets/CV-Jingjie Wang.pdf")  
 
 
