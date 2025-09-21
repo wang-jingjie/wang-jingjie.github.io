@@ -7,7 +7,5 @@ venue: 'Journal of Building Engineering'
 category: journal
 ---
 
-Published in *Journal of Building Engineering*, 2025.  
-
 **Citation:**  
 Wang, J., Luo, Y., Zhou, X., Zhao, W., Lei, Y., & Xie, W. (2025). Impact of assistance behavior on evacuation efficiency in high-rise hospital inpatient buildings: An agent-based simulation study. *Journal of Building Engineering*, 112, 113780. [https://doi.org/10.1016/j.jobe.2025.113780](https://doi.org/10.1016/j.jobe.2025.113780)
