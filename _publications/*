@@ -1,0 +1,12 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+## Publications
+
+{% for pub in site.publications reversed %}
+- [{{ pub.title }}]({{ pub.url }})  
+  *{{ pub.venue }}*, {{ pub.date | date: "%Y" }}
+{% endfor %}
