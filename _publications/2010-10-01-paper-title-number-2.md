@@ -12,7 +12,7 @@ permalink: /publication/publications-overview
 - **Type**: Published Work
 - **Category**: journal
 - **URL**: [Read the paper here](https://www.sciencedirect.com/science/article/pii/S2352710225011705)
-- **Citation**: Wang, J., Luo, Y., Zhou, X., Zhao, W., Lei, Y., & Xie, W. (2025). Impact of assistance behavior on evacuation efficiency in high-rise hospital inpatient buildings: An agent-based simulation study. *Journal of Building Engineering*, 112, 113780. [DOI](https://doi.org/10.1016/j.jobe.2025.113780)
+- **Citation**: Wang, J., Luo, Y., Zhou, X., Zhao, W., Lei, Y., & Xie, W. (2025). Impact of assistance behavior on evacuation efficiency in high-rise hospital inpatient buildings: An agent-based simulation study. *Journal of Building Engineering*, 112, 113780. [https://doi.org/10.1016/j.jobe.2025.113780](https://doi.org/10.1016/j.jobe.2025.113780)
 
 ---
 
@@ -22,7 +22,7 @@ permalink: /publication/publications-overview
 - **Type**: Published Work
 - **Category**: journal
 - **URL**: [Read the paper here](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-025-07242-3)
-- **Citation**: Luo, Y., Wang, J., Yan, Z., He, J., Fu, L., Wang, S., Han, Y., Fu, Y., Wang, X., Li, K., Yin, R., & Pu, D. (2025). Enhancing laparoscopic surgery training: a comparative study of traditional models and automated error detection system. *BMC Medical Education*, 25(1), 1–12. [DOI](https://doi.org/10.1186/s12909-025-07242-3)
+- **Citation**: Luo, Y., Wang, J., Yan, Z., He, J., Fu, L., Wang, S., Han, Y., Fu, Y., Wang, X., Li, K., Yin, R., & Pu, D. (2025). Enhancing laparoscopic surgery training: a comparative study of traditional models and automated error detection system. *BMC Medical Education*, 25(1), 1–12. [https://doi.org/10.1186/s12909-025-07242-3](https://doi.org/10.1186/s12909-025-07242-3)
 
 ---
 
@@ -32,7 +32,7 @@ permalink: /publication/publications-overview
 - **Type**: Published Work
 - **Category**: journal
 - **URL**: [Read the paper here](https://www.sciencedirect.com/science/article/pii/S138358662402762X?via%3Dihub)
-- **Citation**: Hu, B., Huang, L., Chang, H., Ji, Z., Yan, Z., Qu, D., Wang, J., Qu, F., & Liang, H. (2025). A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination. *Separation and Purification Technology*, 354, 129023. [DOI](https://doi.org/10.1016/j.seppur.2024.129023)
+- **Citation**: Hu, B., Huang, L., Chang, H., Ji, Z., Yan, Z., Qu, D., Wang, J., Qu, F., & Liang, H. (2025). A review of key parameters affecting inorganic scaling in thermal, pressure, and osmosis-driven membranes for produced water desalination. *Separation and Purification Technology*, 354, 129023. [https://doi.org/10.1016/j.seppur.2024.129023](https://doi.org/10.1016/j.seppur.2024.129023)
 
 ---
 
