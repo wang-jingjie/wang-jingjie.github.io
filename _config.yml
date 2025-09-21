@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Jingjie Wang"
   pronouns         : "He/his"  
-  bio              : "Glistening & Sparkling (A Hard-working IE Student)"
-  location         : "Chengdu, China"
-  employer         : "Sichuan University"
+  bio              : "A Hard-working IE Ph.D Student"
+  location         : "West Lafayette, United States"
+  employer         : "Purdue University"
   URI              : https://wang-jingjie.github.io
-  email            : "wangjingjie@stu.scu.edu.cn" 
+  email            : "wang0601@purdue.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=i-NEa-wAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://orcid.org/my-orcid?orcid=0009-0002-5647-8452"
   researchgate     : # URL
   scopus           : # URL
 
