@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-# 👋 Hi, my name is Jingjie Wang! You can call me JJ as well.
+# 👋 Hi, I'm Jingjie!
 
 I’m currently a **first-year PhD student in the Edwardson School of Industrial Engineering at Purdue University**, advised by [Dr. Brandon Pitts](https://engineering.purdue.edu/IE/People/ptProfile?resource_id=265402).  
 My research interests lie in **Cyber-Physical-Human Systems, Transportation and Emergency Management, and Human Factors**, with a focus on designing safer and more efficient human-technology interactions.  
