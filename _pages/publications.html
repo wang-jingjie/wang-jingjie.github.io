@@ -4,9 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+<h2>Publications</h2>
 
-{% for pub in site.publications reversed %}
-- [{{ pub.title }}]({{ pub.url }})  
-  *{{ pub.venue }}*, {{ pub.date | date: "%Y" }}
-{% endfor %}
+<ul>
+  {% for pub in site.publications reversed %}
+    <li>
+      <a href="{{ pub.url }}">{{ pub.title }}</a><br/>
+      <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
+    </li>
+  {% endfor %}
+</ul>
