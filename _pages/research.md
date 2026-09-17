@@ -4,7 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-# Research
 
 My research focuses on **human factors and ergonomics in complex, safety-critical systems**, with particular interests in **human-AI interaction, transportation, emergency evacuation, and healthcare**.
 
