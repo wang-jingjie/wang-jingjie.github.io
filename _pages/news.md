@@ -4,8 +4,6 @@ title: "News"
 author_profile: true
 ---
 
-# News
-
 ## 2026
 
 - **Fall 2026** — Serving as a Teaching Assistant for **IE 559: Cognitive Engineering of Interactive Software** and **IE 545: Engineering Economic Analysis** at Purdue University.
