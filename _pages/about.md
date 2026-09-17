@@ -22,6 +22,8 @@ My research focuses on **human factors and human-technology interaction**, with 
 - **Cyber-Physical-Human Systems**
 - **Transportation Safety**
 - **Emergency Management & Decision Making**
+
+
 Before joining Purdue, I completed my **B.Eng. in Industrial Engineering** at Sichuan University–Pittsburgh Institute (SCUPI), where I graduated with distinction and actively participated in interdisciplinary projects, competitions, and leadership roles.  
 
 ---
