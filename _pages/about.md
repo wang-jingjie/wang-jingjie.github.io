@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 Hi, I'm Jingjie!
 
-I’m currently a **second-year PhD student in the Edwardson School of Industrial Engineering at Purdue University**, advised by [Dr. Brandon Pitts](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=158978), serving as a research assistant in ***N*ext-generation Human-systems and Cognitive Engineering Lab** ([*N*HanCE Lab](https://engineering.purdue.edu/NHanCE)).  
+My name is Jingjie Wang. I’m currently a **second-year PhD student in the Edwardson School of Industrial Engineering at Purdue University**, advised by [Dr. Brandon Pitts](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=158978), serving as a research assistant in ***N*ext-generation Human-systems and Cognitive Engineering Lab** ([*N*HanCE Lab](https://engineering.purdue.edu/NHanCE)).  
 My research focuses on **human factors and human-technology interaction**, with interests in understanding how people perceive, interact with, and make decisions within complex technological systems.
 
 ### 🔬 Research Interests
